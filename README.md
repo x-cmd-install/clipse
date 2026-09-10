@@ -12,6 +12,16 @@ Configurable TUI clipboard manager for Unix
 x install clipse
 ```
 
+## Code insight
+
+Total: **3,534** lines of code across **51** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 3,517 | 603 | 644 | 48 |
+| Makefile | 17 | 0 | 8 | 1 |
+| Markdown | 0 | 354 | 157 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/savedra1/clipse>
@@ -22,18 +32,6 @@ x install clipse
 - **Latest**: `v1.2.1` (2026-01-27)
 - **Last commit**: 2026-06-09
 - **Assets in release**: 7
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [checksums.txt](https://github.com/savedra1/clipse/releases/download/v1.2.1/checksums.txt) | 620 B | `other` |
-| [clipse_v1.2.1_darwin_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_amd64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
-| [clipse_v1.2.1_darwin_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
-| [clipse_v1.2.1_linux_wayland_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
-| [clipse_v1.2.1_linux_wayland_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
-| [clipse_v1.2.1_linux_x11_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_amd64.tar.gz) | 4.8 MiB | `native/linux/x64` |
-| [clipse_v1.2.1_linux_x11_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
 
 ## Popularity
 
@@ -48,18 +46,32 @@ x install clipse
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last180d | 2026-03-14 | 0 | 4 | 14 | 5 | 7 | 4 |
 | 360d | 2025-09-15 | 2 | 52 | 17 | 25 | 11 | 85 |
+| last720d | 2024-09-20 | 3 | 80 | 18 | 55 | 25 | 148 |
 
-## Code size
+## Release assets
 
-Total: **3,534** lines of code across **51** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/savedra1/clipse/releases/download/v1.2.1/checksums.txt) | 620 B | `other` |
+| [clipse_v1.2.1_darwin_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_amd64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [clipse_v1.2.1_darwin_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [clipse_v1.2.1_linux_wayland_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [clipse_v1.2.1_linux_wayland_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [clipse_v1.2.1_linux_x11_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_amd64.tar.gz) | 4.8 MiB | `native/linux/x64` |
+| [clipse_v1.2.1_linux_x11_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 3,517 | 603 | 644 | 48 |
-| Makefile | 17 | 0 | 8 | 1 |
-| Markdown | 0 | 354 | 157 | 2 |
+## Distribution status
+
+Reported by **21** distros on [repology.org](https://repology.org/project/clipse). **7** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.2.1` | ✅ latest |
+| Void | `1.2.1` | ✅ latest |
 
 ## Improve this data
 
@@ -70,4 +82,4 @@ Install metadata for clipse lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:51:09Z._
