@@ -22,11 +22,22 @@ x install clipse
 - **Latest**: `v1.2.1` (2026-01-27)
 - **Last commit**: 2026-06-09
 - **Assets in release**: 7
-- **Published**: 2026-01-27T20:04:56Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/savedra1/clipse/releases/download/v1.2.1/checksums.txt) | 620 B | `other` |
+| [clipse_v1.2.1_darwin_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_amd64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [clipse_v1.2.1_darwin_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [clipse_v1.2.1_linux_wayland_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [clipse_v1.2.1_linux_wayland_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [clipse_v1.2.1_linux_x11_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_amd64.tar.gz) | 4.8 MiB | `native/linux/x64` |
+| [clipse_v1.2.1_linux_x11_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
 
 ## Popularity
 
-- **Stars**: 1,035 · **Forks**: 55 · **Open issues**: 113 · **Contributors**: 22
+- **Stars**: 1,036 · **Forks**: 55 · **Open issues**: 113 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -55,8 +66,8 @@ Total: **3,534** lines of code across **51** files in the top 5 languages.
 Install metadata for clipse lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `clipse` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/clipse.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/clipse.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:12:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:31Z._

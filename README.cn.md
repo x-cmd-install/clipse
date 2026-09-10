@@ -4,7 +4,7 @@
 
 Configurable TUI clipboard manager for Unix
 
-![clipse](https://repo.x-cmd.io/clipse.svg)
+![clipse](https://repo.x-cmd.io/clipse.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,22 @@ x install clipse
 - **最新版本**: `v1.2.1` (2026-01-27)
 - **最近提交**: 2026-06-09
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-01-27T20:04:56Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/savedra1/clipse/releases/download/v1.2.1/checksums.txt) | 620 B | `other` |
+| [clipse_v1.2.1_darwin_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_amd64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [clipse_v1.2.1_darwin_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [clipse_v1.2.1_linux_wayland_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [clipse_v1.2.1_linux_wayland_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [clipse_v1.2.1_linux_x11_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_amd64.tar.gz) | 4.8 MiB | `native/linux/x64` |
+| [clipse_v1.2.1_linux_x11_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
 
 ## 流行度
 
-- **Star**: 1,035 · **Fork**: 55 · **开放 issue**: 113 · **贡献者**: 22
+- **Star**: 1,036 · **Fork**: 55 · **开放 issue**: 113 · **贡献者**: 22
 
 ## 累计统计
 
@@ -59,4 +70,4 @@ clipse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:12:30Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:31Z._
