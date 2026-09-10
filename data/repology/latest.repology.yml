@@ -1,0 +1,272 @@
+- repo: nix_stable_24_11
+  srcname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: null
+  status: outdated
+  summary: Useful clipboard manager TUI for Unix
+  maintainers:
+    - michaelsavedra@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: null
+  status: outdated
+  summary: Useful clipboard manager TUI for Unix
+  maintainers:
+    - michaelsavedra@gmail.com
+  licenses:
+    - MIT
+- repo: altsisyphus
+  srcname: clipse
+  binnames:
+    - clipse
+    - clipse-debuginfo
+  visiblename: clipse
+  version: 1.2.1
+  origversion: 1.2.1-alt1
+  status: newest
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - fiersik@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Text tools
+- repo: aur
+  srcname: clipse
+  binname: clipse
+  visiblename: clipse
+  version: 1.2.1
+  origversion: 1.2.1-1
+  status: newest
+  summary: A configurable TUI clipboard manager for Unix, built for wayland.
+  maintainers:
+    - denkijin@aur
+    - savedra1@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: clipse-bin
+  binname: clipse-common-bin
+  visiblename: clipse-common-bin
+  version: 1.2.1
+  origversion: 1.2.1-1
+  status: newest
+  summary: A configurable TUI clipboard manager for Unix (common files)
+  maintainers:
+    - vitaliikuzhdin@aur
+    - savedra1@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: clipse-bin
+  binname: clipse-x11-bin
+  visiblename: clipse-x11-bin
+  version: 1.2.1
+  origversion: 1.2.1-1
+  status: newest
+  summary: A configurable TUI clipboard manager for Unix (X11 backend)
+  maintainers:
+    - vitaliikuzhdin@aur
+    - savedra1@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: clipse-bin
+  binname: clipse-wayland-bin
+  visiblename: clipse-wayland-bin
+  version: 1.2.1
+  origversion: 1.2.1-1
+  status: newest
+  summary: A configurable TUI clipboard manager for Unix (Wayland backend)
+  maintainers:
+    - vitaliikuzhdin@aur
+    - savedra1@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: clipse-git
+  binname: clipse-git
+  visiblename: clipse-git
+  version: r364.dc7370c
+  origversion: r364.dc7370c-1
+  status: rolling
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - orion-zhen@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: clipse
+  visiblename: clipse
+  version: 0.0.71
+  origversion: null
+  status: outdated
+  summary: Useful clipboard manager TUI for Unix
+  maintainers:
+    - michaelsavedra@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: null
+  status: outdated
+  summary: Useful clipboard manager TUI for Unix
+  maintainers:
+    - michaelsavedra@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: null
+  status: outdated
+  summary: Useful clipboard manager TUI for Unix
+  maintainers:
+    - michaelsavedra@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: clipse
+  visiblename: clipse
+  version: 1.2.1
+  origversion: null
+  status: newest
+  summary: Useful clipboard manager TUI for Unix
+  maintainers:
+    - magicquark@github
+    - michaelsavedra@gmail.com
+  licenses:
+    - MIT
+- repo: terra_40
+  srcname: clipse
+  binname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: 1.1.0-2.fc40
+  status: outdated
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - mado@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_40
+  srcname: clipse
+  binname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: 1.1.0-2.fc40
+  status: outdated
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - mado@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: clipse
+  binname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: 1.1.0-3.fc41
+  status: outdated
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - mado@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: clipse
+  binname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: 1.1.0-3.fc41
+  status: outdated
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - mado@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: clipse
+  binname: golang-github-savedra1-clipse-devel
+  visiblename: golang-github-savedra1-clipse-devel
+  version: 1.1.0
+  origversion: 1.1.0-3.fc41
+  status: outdated
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - mado@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: clipse
+  binname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: 1.1.0-3.fcrawhide
+  status: outdated
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - mado@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: clipse
+  binname: clipse
+  visiblename: clipse
+  version: 1.1.0
+  origversion: 1.1.0-3.fcrawhide
+  status: outdated
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - mado@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: clipse
+  binname: golang-github-savedra1-clipse-devel
+  visiblename: golang-github-savedra1-clipse-devel
+  version: 1.1.0
+  origversion: 1.1.0-3.fcrawhide
+  status: outdated
+  summary: Configurable TUI clipboard manager for Unix
+  maintainers:
+    - mado@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: clipse
+  binname: clipse
+  visiblename: clipse
+  version: 1.2.1
+  origversion: 1.2.1_1
+  status: newest
+  summary: Configurable TUI clipboard manager
+  maintainers:
+    - cat@thenight.club
+  licenses:
+    - MIT
