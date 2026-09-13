@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 620,
       "digest": "sha256:c84d0ce306d836daf45c33e2c3527c4bb0e300bb575c2664f451039eca08cf1d",
-      "download_count": 102,
+      "download_count": 103,
       "created_at": "2026-01-27T20:04:55Z",
       "updated_at": "2026-01-27T20:04:55Z",
       "browser_download_url": "https://github.com/savedra1/clipse/releases/download/v1.2.1/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3547531,
       "digest": "sha256:0853240cbfa8efc1a73baebf4e202f70dc14c832bb5a8b74c650ab410e294003",
-      "download_count": 1263,
+      "download_count": 1266,
       "created_at": "2026-01-27T20:04:55Z",
       "updated_at": "2026-01-27T20:04:56Z",
       "browser_download_url": "https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_amd64.tar.gz"
