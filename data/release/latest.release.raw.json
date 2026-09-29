@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4934248,
       "digest": "sha256:1ab0562f52a86260f56980ee76b124345285d70c16ee2a7284a94d48d5b738ab",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-01-27T20:04:55Z",
       "updated_at": "2026-01-27T20:04:56Z",
       "browser_download_url": "https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3547531,
       "digest": "sha256:0853240cbfa8efc1a73baebf4e202f70dc14c832bb5a8b74c650ab410e294003",
-      "download_count": 1331,
+      "download_count": 1337,
       "created_at": "2026-01-27T20:04:55Z",
       "updated_at": "2026-01-27T20:04:56Z",
       "browser_download_url": "https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_wayland_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4989616,
       "digest": "sha256:b3c192c055fd847202c7806a9b3963b347b40b1f2dff0261ba63eb2601f8a847",
-      "download_count": 510,
+      "download_count": 511,
       "created_at": "2026-01-27T20:04:55Z",
       "updated_at": "2026-01-27T20:04:56Z",
       "browser_download_url": "https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_amd64.tar.gz"
