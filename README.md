@@ -39,18 +39,18 @@ Total: **3,534** lines of code across **51** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 179 · **Open PRs**: 18 · **Closed issues**: 86 · **Open issues**: 30 · **Commits**: 364
+- **Releases**: 12 · **Merged PRs**: 179 · **Open PRs**: 19 · **Closed issues**: 86 · **Open issues**: 30 · **Commits**: 364
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-08-19 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 90d | 2026-07-20 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last180d | 2026-04-21 | 0 | 1 | 5 | 3 | 8 | 1 |
-| 360d | 2025-10-23 | 2 | 42 | 17 | 18 | 14 | 66 |
-| last720d | 2024-10-28 | 2 | 76 | 18 | 54 | 27 | 142 |
+| 30d | 2026-09-19 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-08-20 | 0 | 0 | 2 | 0 | 3 | 0 |
+| 90d | 2026-07-21 | 0 | 0 | 2 | 0 | 3 | 0 |
+| last180d | 2026-04-22 | 0 | 1 | 6 | 3 | 8 | 1 |
+| 360d | 2025-10-24 | 2 | 42 | 18 | 17 | 14 | 66 |
+| last720d | 2024-10-29 | 2 | 76 | 19 | 54 | 27 | 142 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for clipse lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:47:43Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:54:35Z._
