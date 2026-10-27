@@ -14,11 +14,11 @@ x install clipse
 
 ## Code insight
 
-Total: **3,534** lines of code across **51** files in the top 5 languages.
+Total: **3,539** lines of code across **51** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,517 | 603 | 644 | 48 |
+| Go | 3,522 | 603 | 645 | 48 |
 | Makefile | 17 | 0 | 8 | 1 |
 | Markdown | 0 | 354 | 157 | 2 |
 
@@ -30,27 +30,27 @@ Total: **3,534** lines of code across **51** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.2.1` (2026-01-27)
-- **Last commit**: 2026-06-09
+- **Last commit**: 2026-10-26
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,050 · **Forks**: 57 · **Open issues**: 116 · **Contributors**: 22
+- **Stars**: 1,050 · **Forks**: 58 · **Open issues**: 116 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 179 · **Open PRs**: 20 · **Closed issues**: 86 · **Open issues**: 30 · **Commits**: 364
+- **Releases**: 12 · **Merged PRs**: 190 · **Open PRs**: 8 · **Closed issues**: 89 · **Open issues**: 27 · **Commits**: 398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 3 | 0 | 3 | 0 |
-| last180d | 2026-04-29 | 0 | 1 | 7 | 3 | 8 | 1 |
-| 360d | 2025-10-31 | 2 | 40 | 19 | 17 | 14 | 65 |
-| last720d | 2024-11-05 | 2 | 75 | 20 | 52 | 25 | 142 |
+| 30d | 2026-09-27 | 0 | 1 | 1 | 1 | 0 | 8 |
+| last60d | 2026-08-28 | 0 | 2 | 1 | 2 | 1 | 9 |
+| 90d | 2026-07-29 | 0 | 2 | 1 | 2 | 1 | 9 |
+| last180d | 2026-04-30 | 0 | 5 | 2 | 6 | 5 | 11 |
+| 360d | 2025-11-01 | 2 | 51 | 7 | 20 | 11 | 83 |
+| last720d | 2024-11-06 | 2 | 86 | 8 | 55 | 22 | 176 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for clipse lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:57:10Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:25:04Z._
