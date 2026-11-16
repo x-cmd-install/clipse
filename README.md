@@ -35,22 +35,22 @@ Total: **3,539** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,055 · **Forks**: 58 · **Open issues**: 116 · **Contributors**: 24
+- **Stars**: 1,056 · **Forks**: 59 · **Open issues**: 117 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 190 · **Open PRs**: 17 · **Closed issues**: 89 · **Open issues**: 27 · **Commits**: 398
+- **Releases**: 12 · **Merged PRs**: 190 · **Open PRs**: 18 · **Closed issues**: 89 · **Open issues**: 28 · **Commits**: 398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 1 | 10 | 0 | 0 | 7 |
-| last60d | 2026-09-16 | 0 | 2 | 10 | 1 | 1 | 8 |
-| 90d | 2026-08-17 | 0 | 2 | 10 | 2 | 1 | 9 |
-| last180d | 2026-05-19 | 0 | 3 | 11 | 3 | 3 | 10 |
-| 360d | 2025-11-20 | 2 | 50 | 16 | 20 | 11 | 76 |
-| last720d | 2024-11-25 | 2 | 86 | 17 | 54 | 22 | 176 |
+| 30d | 2026-10-17 | 0 | 1 | 11 | 0 | 1 | 7 |
+| last60d | 2026-09-17 | 0 | 2 | 11 | 1 | 2 | 8 |
+| 90d | 2026-08-18 | 0 | 2 | 11 | 2 | 2 | 9 |
+| last180d | 2026-05-20 | 0 | 3 | 12 | 3 | 4 | 10 |
+| 360d | 2025-11-21 | 2 | 49 | 17 | 20 | 12 | 76 |
+| last720d | 2024-11-26 | 2 | 85 | 18 | 54 | 23 | 176 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for clipse lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:57:10Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:10:09Z._
