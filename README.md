@@ -45,12 +45,12 @@ Total: **3,539** lines of code across **51** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 5 | 5 | 0 | 1 | 12 |
-| last60d | 2026-09-22 | 0 | 6 | 6 | 1 | 1 | 13 |
-| 90d | 2026-08-23 | 0 | 7 | 6 | 2 | 2 | 14 |
-| last180d | 2026-05-25 | 0 | 9 | 6 | 3 | 3 | 16 |
-| 360d | 2025-11-26 | 2 | 53 | 11 | 22 | 10 | 82 |
-| last720d | 2024-12-01 | 2 | 90 | 12 | 56 | 19 | 187 |
+| 30d | 2026-10-23 | 0 | 5 | 5 | 0 | 1 | 5 |
+| last60d | 2026-09-23 | 0 | 6 | 6 | 1 | 1 | 13 |
+| 90d | 2026-08-24 | 0 | 7 | 6 | 2 | 2 | 14 |
+| last180d | 2026-05-26 | 0 | 9 | 6 | 3 | 3 | 16 |
+| 360d | 2025-11-27 | 2 | 53 | 11 | 21 | 10 | 75 |
+| last720d | 2024-12-02 | 2 | 89 | 12 | 56 | 19 | 187 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for clipse lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:47:58Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:24:22Z._
