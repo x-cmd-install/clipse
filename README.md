@@ -35,7 +35,7 @@ Total: **3,539** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,060 · **Forks**: 60 · **Open issues**: 117 · **Contributors**: 26
+- **Stars**: 1,062 · **Forks**: 60 · **Open issues**: 117 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **3,539** lines of code across **51** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 5 | 5 | 0 | 1 | 5 |
-| last60d | 2026-09-25 | 0 | 6 | 6 | 1 | 1 | 13 |
-| 90d | 2026-08-26 | 0 | 7 | 6 | 2 | 2 | 14 |
-| last180d | 2026-05-28 | 0 | 9 | 6 | 3 | 3 | 16 |
-| 360d | 2025-11-29 | 2 | 53 | 11 | 21 | 10 | 75 |
-| last720d | 2024-12-04 | 2 | 89 | 12 | 56 | 19 | 187 |
+| 30d | 2026-10-26 | 0 | 5 | 5 | 0 | 1 | 5 |
+| last60d | 2026-09-26 | 0 | 6 | 6 | 1 | 1 | 13 |
+| 90d | 2026-08-27 | 0 | 7 | 6 | 2 | 2 | 14 |
+| last180d | 2026-05-29 | 0 | 9 | 6 | 3 | 3 | 16 |
+| 360d | 2025-11-30 | 2 | 53 | 11 | 21 | 10 | 75 |
+| last720d | 2024-12-05 | 2 | 89 | 12 | 56 | 19 | 187 |
 
 ## Release assets
 
@@ -64,15 +64,6 @@ Total: **3,539** lines of code across **51** files in the top 5 languages.
 | [clipse_v1.2.1_linux_x11_amd64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_amd64.tar.gz) | 4.8 MiB | `native/linux/x64` |
 | [clipse_v1.2.1_linux_x11_arm64.tar.gz](https://github.com/savedra1/clipse/releases/download/v1.2.1/clipse_v1.2.1_linux_x11_arm64.tar.gz) | 4.4 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/clipse). **7** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.2.1` | ✅ latest |
-| Void | `1.2.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for clipse lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `clipse` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +73,4 @@ Install metadata for clipse lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:38:48Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:46:20Z._
